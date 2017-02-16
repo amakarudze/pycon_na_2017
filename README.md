@@ -8,4 +8,5 @@ This workshop is an interactive one and participants are expected to have a lapt
 </ul>
 
 <strong>Instructions for setting up a new Django project</strong>
-If you are familiar with Python and Djnago, just create a new virtualenv, install Django and set up a new project. If you are new to Python and Django, please follow the instructions below:
+<br>
+If you are familiar with Python and Django, just create a new virtualenv, install Django and set up a new project. If you are new to Python and Django, please follow the instructions below:
