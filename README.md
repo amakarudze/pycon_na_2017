@@ -2,6 +2,7 @@
 A repository for my PyCon Namibia 2017 workshop on "Testing Your Django App". 
 
 <strong>Testing Your Django App</strong>
+<br>
 This is an introductory workshop to testing in Django for beginners like myself.
 
 This workshop is an interactive one and participants are expected to have a laptop/computer. The following packages are required:
