@@ -11,8 +11,6 @@ This workshop is an interactive one and participants are expected to have a lapt
 <br>
 If you are familiar with Python and Django, just create a new virtualenv, install Django and set up a new project. If you are new to Python and Django, please follow the instructions for installation from here:
 
-<br>
 Instructions for setting up a new project can be found here:
 
-<br>
 Or you can clone this 
