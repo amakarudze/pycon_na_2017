@@ -13,4 +13,4 @@ If you are familiar with Python and Django, just create a new virtualenv, instal
 
 Instructions for setting up a new project can be found here:
 
-Or you can clone this 
+Once you are all set up then you are ready to follow through my tutorial!
