@@ -22,7 +22,7 @@ https://tutorial.djangogirls.org/en/django_installation/
 Instructions for setting up a new project can be found here: <br>
 https://tutorial.djangogirls.org/en/django_start_project/
 
-If you are still new to Python and Django or coding in general, please be sure to stick to the names <strong>dummy</strong> and  <strong>dummy_site</strong> to avoid confusion with replacement of names in typing commands. It will save us time if you can set up before the workshop. 
+If you are still new to Python and Django or coding in general, please be sure to stick to the names <strong>dummy</strong> and  <strong>dummy_site</strong> to avoid confusion with replacement of names in typing commands. 
 
 You can download my slides from this repository as well. I will upload the code used in this tutorial after the workshop is over should you need to refer to it.
 
