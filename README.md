@@ -16,10 +16,10 @@ This workshop is an interactive one and participants are expected to have a lapt
 If you are familiar with Python and Django, just create a new virtualenv, install Django and set up a new project called <strong>dummy</strong> and start a new app called <strong>dummy_site</strong>. 
 
 If you are new to Python and Django, please follow the instructions for installation from here:
-https://tutorial.djangogirls.org/en/python_installation/
+https://tutorial.djangogirls.org/en/python_installation/ <br>
 https://tutorial.djangogirls.org/en/django_installation/
 
-Instructions for setting up a new project can be found here:
+Instructions for setting up a new project can be found here: <br>
 https://tutorial.djangogirls.org/en/django_start_project/
 
 If you are still new to Python and Django or coding in general, please be sure to stick to the names <strong>dummy</strong> and  <strong>dummy_site</strong> to avoid confusion with replacement of names in typing commands. It will save us time if you can set up before the workshop. 
