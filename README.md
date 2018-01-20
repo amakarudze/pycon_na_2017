@@ -29,3 +29,7 @@ You can download my slides from this repository as well. I will upload the code 
 Once you are all set up then you are ready to follow through my tutorial!
 
 So let's start testing our Django app!
+
+The app for this project is found here:
+https://github.com/amakarudze/dummy_pycon_namibia_2017
+
